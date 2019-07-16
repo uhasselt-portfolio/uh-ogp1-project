@@ -1,0 +1,474 @@
+{
+    "GameRounds": {
+        "FirstPlayerIndex": 2,
+        "Phase": 1,
+        "Round": 1
+    },
+    "GameState": {
+        "BuildingCardIndexes": [
+            3,
+            2,
+            1,
+            1
+        ],
+        "BuildingCardStack": [
+            [
+                {
+                    "ImagePath": "41",
+                    "Max": 0,
+                    "Min": 0,
+                    "Type": 2
+                },
+                {
+                    "ImagePath": "42",
+                    "Max": 0,
+                    "Min": 0,
+                    "Type": 2
+                },
+                {
+                    "ImagePath": "43",
+                    "Max": 0,
+                    "Min": 0,
+                    "Type": 2
+                },
+                {
+                    "ImagePath": "44",
+                    "Max": 0,
+                    "Min": 0,
+                    "Type": 2
+                },
+                {
+                    "ImagePath": "51",
+                    "Max": 0,
+                    "Min": 0,
+                    "Type": 2
+                },
+                {
+                    "ImagePath": "52",
+                    "Max": 0,
+                    "Min": 0,
+                    "Type": 2
+                },
+                {
+                    "ImagePath": "53",
+                    "Max": 0,
+                    "Min": 0,
+                    "Type": 2
+                }
+            ],
+            [
+                {
+                    "ImagePath": "51",
+                    "Max": 0,
+                    "Min": 0,
+                    "Type": 2
+                },
+                {
+                    "ImagePath": "52",
+                    "Max": 0,
+                    "Min": 0,
+                    "Type": 2
+                },
+                {
+                    "ImagePath": "53",
+                    "Max": 0,
+                    "Min": 0,
+                    "Type": 2
+                },
+                {
+                    "ImagePath": "54",
+                    "Max": 0,
+                    "Min": 0,
+                    "Type": 2
+                },
+                {
+                    "ImagePath": "1_10_wwb",
+                    "Resources": [
+                        {
+                            "Amount": 2,
+                            "Type": 0
+                        },
+                        {
+                            "Amount": 1,
+                            "Type": 1
+                        }
+                    ],
+                    "ReturnPoints": 0,
+                    "Type": 0
+                },
+                {
+                    "ImagePath": "1_11_wbb",
+                    "Resources": [
+                        {
+                            "Amount": 1,
+                            "Type": 0
+                        },
+                        {
+                            "Amount": 2,
+                            "Type": 1
+                        }
+                    ],
+                    "ReturnPoints": 0,
+                    "Type": 0
+                },
+                {
+                    "ImagePath": "1_11_wws",
+                    "Resources": [
+                        {
+                            "Amount": 2,
+                            "Type": 0
+                        },
+                        {
+                            "Amount": 1,
+                            "Type": 3
+                        }
+                    ],
+                    "ReturnPoints": 0,
+                    "Type": 0
+                }
+            ],
+            [
+                {
+                    "ImagePath": "1_10_wwb",
+                    "Resources": [
+                        {
+                            "Amount": 2,
+                            "Type": 0
+                        },
+                        {
+                            "Amount": 1,
+                            "Type": 1
+                        }
+                    ],
+                    "ReturnPoints": 0,
+                    "Type": 0
+                },
+                {
+                    "ImagePath": "1_11_wbb",
+                    "Resources": [
+                        {
+                            "Amount": 1,
+                            "Type": 0
+                        },
+                        {
+                            "Amount": 2,
+                            "Type": 1
+                        }
+                    ],
+                    "ReturnPoints": 0,
+                    "Type": 0
+                },
+                {
+                    "ImagePath": "1_11_wws",
+                    "Resources": [
+                        {
+                            "Amount": 2,
+                            "Type": 0
+                        },
+                        {
+                            "Amount": 1,
+                            "Type": 3
+                        }
+                    ],
+                    "ReturnPoints": 0,
+                    "Type": 0
+                },
+                {
+                    "ImagePath": "1_12_wwg",
+                    "Resources": [
+                        {
+                            "Amount": 2,
+                            "Type": 0
+                        },
+                        {
+                            "Amount": 1,
+                            "Type": 3
+                        }
+                    ],
+                    "ReturnPoints": 0,
+                    "Type": 0
+                },
+                {
+                    "ImagePath": "1_13_bbs",
+                    "Resources": [
+                        {
+                            "Amount": 2,
+                            "Type": 1
+                        },
+                        {
+                            "Amount": 1,
+                            "Type": 2
+                        }
+                    ],
+                    "ReturnPoints": 0,
+                    "Type": 0
+                },
+                {
+                    "ImagePath": "1_13_wss",
+                    "Resources": [
+                        {
+                            "Amount": 1,
+                            "Type": 0
+                        },
+                        {
+                            "Amount": 2,
+                            "Type": 2
+                        }
+                    ],
+                    "ReturnPoints": 0,
+                    "Type": 0
+                },
+                {
+                    "ImagePath": "1_14_bbg",
+                    "Resources": [
+                        {
+                            "Amount": 2,
+                            "Type": 1
+                        },
+                        {
+                            "Amount": 1,
+                            "Type": 3
+                        }
+                    ],
+                    "ReturnPoints": 0,
+                    "Type": 0
+                }
+            ],
+            [
+                {
+                    "ImagePath": "1_13_bbs",
+                    "Resources": [
+                        {
+                            "Amount": 2,
+                            "Type": 1
+                        },
+                        {
+                            "Amount": 1,
+                            "Type": 2
+                        }
+                    ],
+                    "ReturnPoints": 0,
+                    "Type": 0
+                },
+                {
+                    "ImagePath": "1_13_wss",
+                    "Resources": [
+                        {
+                            "Amount": 1,
+                            "Type": 0
+                        },
+                        {
+                            "Amount": 2,
+                            "Type": 2
+                        }
+                    ],
+                    "ReturnPoints": 0,
+                    "Type": 0
+                },
+                {
+                    "ImagePath": "1_14_bbg",
+                    "Resources": [
+                        {
+                            "Amount": 2,
+                            "Type": 1
+                        },
+                        {
+                            "Amount": 1,
+                            "Type": 3
+                        }
+                    ],
+                    "ReturnPoints": 0,
+                    "Type": 0
+                },
+                {
+                    "ImagePath": "1_14_bss",
+                    "Resources": [
+                        {
+                            "Amount": 1,
+                            "Type": 1
+                        },
+                        {
+                            "Amount": 2,
+                            "Type": 2
+                        }
+                    ],
+                    "ReturnPoints": 0,
+                    "Type": 0
+                },
+                {
+                    "ImagePath": "1_16_ssg",
+                    "Resources": [
+                        {
+                            "Amount": 2,
+                            "Type": 2
+                        },
+                        {
+                            "Amount": 1,
+                            "Type": 3
+                        }
+                    ],
+                    "ReturnPoints": 0,
+                    "Type": 0
+                },
+                {
+                    "ImagePath": "12_wbs",
+                    "Resources": [
+                        {
+                            "Amount": 1,
+                            "Type": 0
+                        },
+                        {
+                            "Amount": 1,
+                            "Type": 1
+                        },
+                        {
+                            "Amount": 1,
+                            "Type": 2
+                        }
+                    ],
+                    "ReturnPoints": 0,
+                    "Type": 0
+                },
+                {
+                    "ImagePath": "13_wbg",
+                    "Resources": [
+                        {
+                            "Amount": 1,
+                            "Type": 0
+                        },
+                        {
+                            "Amount": 1,
+                            "Type": 1
+                        },
+                        {
+                            "Amount": 1,
+                            "Type": 3
+                        }
+                    ],
+                    "ReturnPoints": 0,
+                    "Type": 0
+                }
+            ]
+        ],
+        "CivilCardIndex": 5,
+        "CivilCardStack": [
+        ]
+    },
+    "Players": [
+        {
+            "Name": "Ingo",
+            "PlayerBoard": {
+                "Brick": 0,
+                "BuildingCards": [
+                    {
+                        "ImagePath": "51",
+                        "Max": 0,
+                        "Min": 0,
+                        "Type": 2
+                    },
+                    {
+                        "ImagePath": "41",
+                        "Max": 4,
+                        "Min": 1,
+                        "Type": 2
+                    }
+                ],
+                "CivilCards": [
+                ],
+                "FarmerLevel": 0,
+                "FoodAmount": 17,
+                "Gold": 0,
+                "Score": 44,
+                "Stone": 0,
+                "Tools": [
+                ],
+                "Wood": 2,
+                "WorkerAmount": 6
+            },
+            "Team": 0
+        },
+        {
+            "Name": "Michiel",
+            "PlayerBoard": {
+                "Brick": 0,
+                "BuildingCards": [
+                    {
+                        "ImagePath": "41",
+                        "Max": 0,
+                        "Min": 0,
+                        "Type": 2
+                    }
+                ],
+                "CivilCards": [
+                ],
+                "FarmerLevel": 1,
+                "FoodAmount": 18,
+                "Gold": 0,
+                "Score": 20,
+                "Stone": 3,
+                "Tools": [
+                ],
+                "Wood": 1,
+                "WorkerAmount": 6
+            },
+            "Team": 3
+        },
+        {
+            "Name": "Brent",
+            "PlayerBoard": {
+                "Brick": 5,
+                "BuildingCards": [
+                ],
+                "CivilCards": [
+                ],
+                "FarmerLevel": 0,
+                "FoodAmount": 20,
+                "Gold": 0,
+                "Score": -10,
+                "Stone": 0,
+                "Tools": [
+                ],
+                "Wood": 0,
+                "WorkerAmount": 7
+            },
+            "Team": 2
+        },
+        {
+            "Name": "Wouter",
+            "PlayerBoard": {
+                "Brick": 0,
+                "BuildingCards": [
+                ],
+                "CivilCards": [
+                    {
+                        "Footer": {
+                            "Amount": 2,
+                            "BackgroundType": 1,
+                            "Type": 10
+                        },
+                        "Header": {
+                            "Amount": 2,
+                            "Type": 0
+                        },
+                        "ImagePath": "2food"
+                    }
+                ],
+                "FarmerLevel": 0,
+                "FoodAmount": 24,
+                "Gold": 2,
+                "Score": -20,
+                "Stone": 0,
+                "Tools": [
+                    {
+                        "Level": 1,
+                        "MaxLevel": 4,
+                        "UseableTimes": -1
+                    }
+                ],
+                "Wood": 0,
+                "WorkerAmount": 6
+            },
+            "Team": 1
+        }
+    ]
+}

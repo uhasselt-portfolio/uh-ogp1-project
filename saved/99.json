@@ -1,0 +1,691 @@
+{
+    "GameRounds": {
+        "FirstPlayerIndex": 0,
+        "Phase": 1,
+        "Round": 1
+    },
+    "GameState": {
+        "BuildingCardIndexes": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "BuildingCardStack": [
+            [
+                {
+                    "Amount": 1,
+                    "ImagePath": "41",
+                    "Total": 4,
+                    "Type": 2
+                },
+                {
+                    "Amount": 2,
+                    "ImagePath": "42",
+                    "Total": 4,
+                    "Type": 2
+                },
+                {
+                    "Amount": 3,
+                    "ImagePath": "43",
+                    "Total": 4,
+                    "Type": 2
+                },
+                {
+                    "Amount": 4,
+                    "ImagePath": "44",
+                    "Total": 4,
+                    "Type": 2
+                },
+                {
+                    "Amount": 1,
+                    "ImagePath": "51",
+                    "Total": 5,
+                    "Type": 2
+                },
+                {
+                    "Amount": 2,
+                    "ImagePath": "52",
+                    "Total": 5,
+                    "Type": 2
+                },
+                {
+                    "Amount": 3,
+                    "ImagePath": "53",
+                    "Total": 5,
+                    "Type": 2
+                }
+            ],
+            [
+                {
+                    "Amount": 1,
+                    "ImagePath": "51",
+                    "Total": 5,
+                    "Type": 2
+                },
+                {
+                    "Amount": 2,
+                    "ImagePath": "52",
+                    "Total": 5,
+                    "Type": 2
+                },
+                {
+                    "Amount": 3,
+                    "ImagePath": "53",
+                    "Total": 5,
+                    "Type": 2
+                },
+                {
+                    "Amount": 4,
+                    "ImagePath": "54",
+                    "Total": 5,
+                    "Type": 2
+                },
+                {
+                    "ImagePath": "1_10_wwb",
+                    "Resources": [
+                        {
+                            "Amount": 2,
+                            "Type": 0
+                        },
+                        {
+                            "Amount": 1,
+                            "Type": 1
+                        }
+                    ],
+                    "ReturnPoints": 0,
+                    "Type": 0
+                },
+                {
+                    "ImagePath": "1_11_wbb",
+                    "Resources": [
+                        {
+                            "Amount": 1,
+                            "Type": 0
+                        },
+                        {
+                            "Amount": 2,
+                            "Type": 1
+                        }
+                    ],
+                    "ReturnPoints": 0,
+                    "Type": 0
+                },
+                {
+                    "ImagePath": "1_11_wws",
+                    "Resources": [
+                        {
+                            "Amount": 2,
+                            "Type": 0
+                        },
+                        {
+                            "Amount": 1,
+                            "Type": 3
+                        }
+                    ],
+                    "ReturnPoints": 0,
+                    "Type": 0
+                }
+            ],
+            [
+                {
+                    "ImagePath": "1_10_wwb",
+                    "Resources": [
+                        {
+                            "Amount": 2,
+                            "Type": 0
+                        },
+                        {
+                            "Amount": 1,
+                            "Type": 1
+                        }
+                    ],
+                    "ReturnPoints": 0,
+                    "Type": 0
+                },
+                {
+                    "ImagePath": "1_11_wbb",
+                    "Resources": [
+                        {
+                            "Amount": 1,
+                            "Type": 0
+                        },
+                        {
+                            "Amount": 2,
+                            "Type": 1
+                        }
+                    ],
+                    "ReturnPoints": 0,
+                    "Type": 0
+                },
+                {
+                    "ImagePath": "1_11_wws",
+                    "Resources": [
+                        {
+                            "Amount": 2,
+                            "Type": 0
+                        },
+                        {
+                            "Amount": 1,
+                            "Type": 3
+                        }
+                    ],
+                    "ReturnPoints": 0,
+                    "Type": 0
+                },
+                {
+                    "ImagePath": "1_12_wwg",
+                    "Resources": [
+                        {
+                            "Amount": 2,
+                            "Type": 0
+                        },
+                        {
+                            "Amount": 1,
+                            "Type": 3
+                        }
+                    ],
+                    "ReturnPoints": 0,
+                    "Type": 0
+                },
+                {
+                    "ImagePath": "1_13_bbs",
+                    "Resources": [
+                        {
+                            "Amount": 2,
+                            "Type": 1
+                        },
+                        {
+                            "Amount": 1,
+                            "Type": 2
+                        }
+                    ],
+                    "ReturnPoints": 0,
+                    "Type": 0
+                },
+                {
+                    "ImagePath": "1_13_wss",
+                    "Resources": [
+                        {
+                            "Amount": 1,
+                            "Type": 0
+                        },
+                        {
+                            "Amount": 2,
+                            "Type": 2
+                        }
+                    ],
+                    "ReturnPoints": 0,
+                    "Type": 0
+                },
+                {
+                    "ImagePath": "1_14_bbg",
+                    "Resources": [
+                        {
+                            "Amount": 2,
+                            "Type": 1
+                        },
+                        {
+                            "Amount": 1,
+                            "Type": 3
+                        }
+                    ],
+                    "ReturnPoints": 0,
+                    "Type": 0
+                }
+            ],
+            [
+                {
+                    "ImagePath": "1_13_bbs",
+                    "Resources": [
+                        {
+                            "Amount": 2,
+                            "Type": 1
+                        },
+                        {
+                            "Amount": 1,
+                            "Type": 2
+                        }
+                    ],
+                    "ReturnPoints": 0,
+                    "Type": 0
+                },
+                {
+                    "ImagePath": "1_13_wss",
+                    "Resources": [
+                        {
+                            "Amount": 1,
+                            "Type": 0
+                        },
+                        {
+                            "Amount": 2,
+                            "Type": 2
+                        }
+                    ],
+                    "ReturnPoints": 0,
+                    "Type": 0
+                },
+                {
+                    "ImagePath": "1_14_bbg",
+                    "Resources": [
+                        {
+                            "Amount": 2,
+                            "Type": 1
+                        },
+                        {
+                            "Amount": 1,
+                            "Type": 3
+                        }
+                    ],
+                    "ReturnPoints": 0,
+                    "Type": 0
+                },
+                {
+                    "ImagePath": "1_14_bss",
+                    "Resources": [
+                        {
+                            "Amount": 1,
+                            "Type": 1
+                        },
+                        {
+                            "Amount": 2,
+                            "Type": 2
+                        }
+                    ],
+                    "ReturnPoints": 0,
+                    "Type": 0
+                },
+                {
+                    "ImagePath": "1_16_ssg",
+                    "Resources": [
+                        {
+                            "Amount": 2,
+                            "Type": 2
+                        },
+                        {
+                            "Amount": 1,
+                            "Type": 3
+                        }
+                    ],
+                    "ReturnPoints": 0,
+                    "Type": 0
+                },
+                {
+                    "ImagePath": "12_wbs",
+                    "Resources": [
+                        {
+                            "Amount": 1,
+                            "Type": 0
+                        },
+                        {
+                            "Amount": 1,
+                            "Type": 1
+                        },
+                        {
+                            "Amount": 1,
+                            "Type": 2
+                        }
+                    ],
+                    "ReturnPoints": 0,
+                    "Type": 0
+                },
+                {
+                    "ImagePath": "13_wbg",
+                    "Resources": [
+                        {
+                            "Amount": 1,
+                            "Type": 0
+                        },
+                        {
+                            "Amount": 1,
+                            "Type": 1
+                        },
+                        {
+                            "Amount": 1,
+                            "Type": 3
+                        }
+                    ],
+                    "ReturnPoints": 0,
+                    "Type": 0
+                }
+            ]
+        ],
+        "CivilCardIndex": 4,
+        "CivilCardStack": [
+            {
+                "Footer": {
+                    "Amount": 1,
+                    "BackgroundType": 0,
+                    "Type": 7
+                },
+                "Header": {
+                    "Amount": 1,
+                    "Type": 0
+                },
+                "ImagePath": "1food"
+            },
+            {
+                "Footer": {
+                    "Amount": 2,
+                    "BackgroundType": 1,
+                    "Type": 10
+                },
+                "Header": {
+                    "Amount": 2,
+                    "Type": 0
+                },
+                "ImagePath": "2food"
+            },
+            {
+                "Footer": {
+                    "Amount": 1,
+                    "BackgroundType": 0,
+                    "Type": 7
+                },
+                "Header": {
+                    "Amount": 3,
+                    "Type": 0
+                },
+                "ImagePath": "3food"
+            },
+            {
+                "Footer": {
+                    "Amount": 2,
+                    "BackgroundType": 1,
+                    "Type": 8
+                },
+                "Header": {
+                    "Amount": 3,
+                    "Type": 0
+                },
+                "ImagePath": "3food"
+            },
+            {
+                "Footer": {
+                    "Amount": 1,
+                    "BackgroundType": 1,
+                    "Type": 10
+                },
+                "Header": {
+                    "Amount": 4,
+                    "Type": 0
+                },
+                "ImagePath": "4food"
+            },
+            {
+                "Footer": {
+                    "Amount": 1,
+                    "BackgroundType": 0,
+                    "Type": 0
+                },
+                "Header": {
+                    "Amount": 5,
+                    "Type": 0
+                },
+                "ImagePath": "5food"
+            },
+            {
+                "Footer": {
+                    "Amount": 1,
+                    "BackgroundType": 0,
+                    "Type": 3
+                },
+                "Header": {
+                    "Amount": 7,
+                    "Type": 0
+                },
+                "ImagePath": "7food"
+            },
+            {
+                "Footer": {
+                    "Amount": 2,
+                    "BackgroundType": 1,
+                    "Type": 11
+                },
+                "Header": {
+                    "Amount": 1,
+                    "Type": 3
+                },
+                "ImagePath": "1brick"
+            },
+            {
+                "Footer": {
+                    "Amount": 1,
+                    "BackgroundType": 1,
+                    "Type": 11
+                },
+                "Header": {
+                    "Amount": 1,
+                    "Type": 1
+                },
+                "ImagePath": "1gold"
+            },
+            {
+                "Footer": {
+                    "Amount": 1,
+                    "BackgroundType": 1,
+                    "Type": 8
+                },
+                "Header": {
+                    "Amount": 1,
+                    "Type": 2
+                },
+                "ImagePath": "1stone"
+            },
+            {
+                "Footer": {
+                    "Amount": 1,
+                    "BackgroundType": 1,
+                    "Type": 11
+                },
+                "Header": {
+                    "Amount": 1,
+                    "Type": 2
+                },
+                "ImagePath": "1stone2"
+            },
+            {
+                "Footer": {
+                    "Amount": 1,
+                    "BackgroundType": 0,
+                    "Type": 5
+                },
+                "Header": {
+                    "Amount": 2,
+                    "Type": 2
+                },
+                "ImagePath": "2stone"
+            },
+            {
+                "Footer": {
+                    "Amount": 3,
+                    "BackgroundType": 1,
+                    "Type": 10
+                },
+                "Header": {
+                    "Amount": 3,
+                    "Type": 4
+                },
+                "ImagePath": "3hut"
+            },
+            {
+                "Footer": {
+                    "Amount": 1,
+                    "BackgroundType": 0,
+                    "Type": 6
+                },
+                "Header": {
+                    "Amount": 3,
+                    "Type": 4
+                },
+                "ImagePath": "music_2x"
+            },
+            {
+                "Footer": {
+                    "Amount": 1,
+                    "BackgroundType": 0,
+                    "Type": 6
+                },
+                "Header": {
+                    "Amount": 3,
+                    "Type": 4
+                },
+                "ImagePath": "music_2x"
+            },
+            {
+                "Footer": {
+                    "Amount": 1,
+                    "BackgroundType": 0,
+                    "Type": 1
+                },
+                "Header": {
+                    "Amount": 1,
+                    "Type": 5
+                },
+                "ImagePath": "art"
+            },
+            {
+                "Footer": {
+                    "Amount": 1,
+                    "BackgroundType": 1,
+                    "Type": 8
+                },
+                "Header": {
+                    "Amount": 1,
+                    "Type": 6
+                },
+                "ImagePath": "1framer"
+            },
+            {
+                "Footer": {
+                    "Amount": 1,
+                    "BackgroundType": 0,
+                    "Type": 4
+                },
+                "Header": {
+                    "Amount": 1,
+                    "Type": 6
+                },
+                "ImagePath": "time"
+            },
+            {
+                "Footer": {
+                    "Amount": 2,
+                    "BackgroundType": 1,
+                    "Type": 9
+                },
+                "Header": {
+                    "Amount": 2,
+                    "Type": 7
+                },
+                "ImagePath": "2tools"
+            },
+            {
+                "Footer": {
+                    "Amount": 1,
+                    "BackgroundType": 1,
+                    "Type": 9
+                },
+                "Header": {
+                    "Amount": 3,
+                    "Type": 7
+                },
+                "ImagePath": "3tools"
+            },
+            {
+                "Footer": {
+                    "Amount": 1,
+                    "BackgroundType": 1,
+                    "Type": 9
+                },
+                "Header": {
+                    "Amount": 4,
+                    "Type": 7
+                },
+                "ImagePath": "4tools"
+            }
+        ]
+    },
+    "Players": [
+        {
+            "Name": "Ingo",
+            "PlayerBoard": {
+                "Brick": 99,
+                "BuildingCards": [
+                ],
+                "CivilCards": [
+                ],
+                "FarmerLevel": 10,
+                "FoodAmount": 99,
+                "Gold": 99,
+                "Score": 99,
+                "Stone": 99,
+                "Tools": [
+                ],
+                "Wood": 99,
+                "WorkerAmount": 6
+            },
+            "Team": 0
+        },
+        {
+            "Name": "Michiel",
+            "PlayerBoard": {
+                "Brick": 99,
+                "BuildingCards": [
+                ],
+                "CivilCards": [
+                ],
+                "FarmerLevel": 10,
+                "FoodAmount": 99,
+                "Gold": 99,
+                "Score": 99,
+                "Stone": 99,
+                "Tools": [
+                ],
+                "Wood": 99,
+                "WorkerAmount": 6
+            },
+            "Team": 3
+        },
+        {
+            "Name": "Brent",
+            "PlayerBoard": {
+                "Brick": 99,
+                "BuildingCards": [
+                ],
+                "CivilCards": [
+                ],
+                "FarmerLevel": 10,
+                "FoodAmount": 99,
+                "Gold": 99,
+                "Score": 99,
+                "Stone": 99,
+                "Tools": [
+                ],
+                "Wood": 99,
+                "WorkerAmount": 6
+            },
+            "Team": 2
+        },
+        {
+            "Name": "Wouter",
+            "PlayerBoard": {
+                "Brick": 99,
+                "BuildingCards": [
+                ],
+                "CivilCards": [
+                ],
+                "FarmerLevel": 10,
+                "FoodAmount": 99,
+                "Gold": 99,
+                "Score": 99,
+                "Stone": 99,
+                "Tools": [
+                ],
+                "Wood": 99,
+                "WorkerAmount": 6
+            },
+            "Team": 1
+        }
+    ]
+}

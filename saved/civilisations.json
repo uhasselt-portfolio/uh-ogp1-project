@@ -1,0 +1,254 @@
+[
+    {
+        "ImagePath": "1food",
+        "Header": {
+            "Type": 0,
+            "Amount": 1
+        },
+        "Footer": {
+            "BackgroundType": 0,
+            "Type": 7,
+            "Amount": 1
+        }
+    },
+    {
+        "ImagePath": "2food",
+        "Header": {
+            "Type": 0,
+            "Amount": 2
+        },
+        "Footer": {
+            "BackgroundType": 1,
+            "Type": 10,
+            "Amount": 2
+        }
+    },
+    {
+        "ImagePath": "3food",
+        "Header": {
+            "Type": 0,
+            "Amount": 3
+        },
+        "Footer": {
+            "BackgroundType": 0,
+            "Type": 7,
+            "Amount": 1
+        }
+    },
+    {
+        "ImagePath": "3food",
+        "Header": {
+            "Type": 0,
+            "Amount": 3
+        },
+        "Footer": {
+            "BackgroundType": 1,
+            "Type": 8,
+            "Amount": 2
+        }
+    },
+    {
+        "ImagePath": "4food",
+        "Header": {
+            "Type": 0,
+            "Amount": 4
+        },
+        "Footer": {
+            "BackgroundType": 1,
+            "Type": 10,
+            "Amount": 1
+        }
+    },
+    {
+        "ImagePath": "5food",
+        "Header": {
+            "Type": 0,
+            "Amount": 5
+        },
+        "Footer": {
+            "BackgroundType": 0,
+            "Type": 0,
+            "Amount": 1
+        }
+    },
+    {
+        "ImagePath": "7food",
+        "Header": {
+            "Type": 0,
+            "Amount": 7
+        },
+        "Footer": {
+            "BackgroundType": 0,
+            "Type": 3,
+            "Amount": 1
+        }
+    },
+    {
+        "ImagePath": "1brick",
+        "Header": {
+            "Type": 3,
+            "Amount": 1
+        },
+        "Footer": {
+            "BackgroundType": 1,
+            "Type": 11,
+            "Amount": 2
+        }
+    },
+    {
+        "ImagePath": "1gold",
+        "Header": {
+            "Type": 1,
+            "Amount": 1
+        },
+        "Footer": {
+            "BackgroundType": 1,
+            "Type": 11,
+            "Amount": 1
+        }
+    },
+    {
+        "ImagePath": "1stone",
+        "Header": {
+            "Type": 2,
+            "Amount": 1
+        },
+        "Footer": {
+            "BackgroundType": 1,
+            "Type": 8,
+            "Amount": 1
+        }
+    },
+    {
+        "ImagePath": "1stone2",
+        "Header": {
+            "Type": 2,
+            "Amount": 1
+        },
+        "Footer": {
+            "BackgroundType": 1,
+            "Type": 11,
+            "Amount": 1
+        }
+    },
+    {
+        "ImagePath": "2stone",
+        "Header": {
+            "Type": 2,
+            "Amount": 2
+        },
+        "Footer": {
+            "BackgroundType": 0,
+            "Type": 5,
+            "Amount": 1
+        }
+    },
+    {
+        "ImagePath": "3hut",
+        "Header": {
+            "Type": 4,
+            "Amount": 3
+        },
+        "Footer": {
+            "BackgroundType": 1,
+            "Type": 10,
+            "Amount": 3
+        }
+    },
+    {
+        "ImagePath": "music_2x",
+        "Header": {
+            "Type": 4,
+            "Amount": 3
+        },
+        "Footer": {
+            "BackgroundType": 0,
+            "Type": 6,
+            "Amount": 1
+        }
+    },
+    {
+        "ImagePath": "music_2x",
+        "Header": {
+            "Type": 4,
+            "Amount": 3
+        },
+        "Footer": {
+            "BackgroundType": 0,
+            "Type": 6,
+            "Amount": 1
+        }
+    },
+    {
+        "ImagePath": "art",
+        "Header": {
+            "Type": 5,
+            "Amount": 1
+        },
+        "Footer": {
+            "BackgroundType": 0,
+            "Type": 1,
+            "Amount": 1
+        }
+    },
+    {
+        "ImagePath": "1framer",
+        "Header": {
+            "Type": 6,
+            "Amount": 1
+        },
+        "Footer": {
+            "BackgroundType": 1,
+            "Type": 8,
+            "Amount": 1
+        }
+    },
+    {
+        "ImagePath": "time",
+        "Header": {
+            "Type": 6,
+            "Amount": 1
+        },
+        "Footer": {
+            "BackgroundType": 0,
+            "Type": 4,
+            "Amount": 1
+        }
+    },
+    {
+        "ImagePath": "2tools",
+        "Header": {
+            "Type": 7,
+            "Amount": 2
+        },
+        "Footer": {
+            "BackgroundType": 1,
+            "Type": 9,
+            "Amount": 2
+        }
+    },
+    {
+        "ImagePath": "3tools",
+        "Header": {
+            "Type": 7,
+            "Amount": 3
+        },
+        "Footer": {
+            "BackgroundType": 1,
+            "Type": 9,
+            "Amount": 1
+        }
+    },
+    {
+        "ImagePath": "4tools",
+        "Header": {
+            "Type": 7,
+            "Amount": 4
+        },
+        "Footer": {
+            "BackgroundType": 1,
+            "Type": 9,
+            "Amount": 1
+        }
+    }
+]

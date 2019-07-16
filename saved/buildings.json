@@ -1,0 +1,302 @@
+[
+  {
+    "Type": 2,
+    "ImagePath": "41",
+    "Amount": 1,
+    "Total": 4
+  },
+  {
+    "Type": 2,
+    "ImagePath": "42",
+    "Amount": 2,
+    "Total": 4
+  },
+  {
+    "Type": 2,
+    "ImagePath": "43",
+    "Amount": 3,
+    "Total": 4
+  },
+  {
+    "Type": 2,
+    "ImagePath": "44",
+    "Amount": 4,
+    "Total": 4
+  },
+  
+  {
+    "Type": 2,
+    "ImagePath": "51",
+    "Amount": 1,
+    "Total": 5
+  },
+  {
+    "Type": 2,
+    "ImagePath": "52",
+    "Amount": 2,
+    "Total": 5
+  },
+  {
+    "Type": 2,
+    "ImagePath": "53",
+    "Amount": 3,
+    "Total": 5
+  },
+  {
+    "Type": 2,
+    "ImagePath": "54",
+    "Amount": 4,
+    "Total": 5
+  },
+
+  
+  {
+    "ReturnPoints": 10,
+    "Type": 0,
+    "ImagePath": "1_10_wwb",
+    "Resources": [
+      {
+        "Type": 0,
+        "Amount": 2
+      },
+      {
+        "Type": 1,
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "ReturnPoints": 11,
+    "Type": 0,
+    "ImagePath": "1_11_wbb",
+    "Resources": [
+      {
+        "Type": 0,
+        "Amount": 1
+      },
+      {
+        "Type": 1,
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "ReturnPoints": 11,
+    "Type": 0,
+    "ImagePath": "1_11_wws",
+    "Resources": [
+      {
+        "Type": 0,
+        "Amount": 2
+      },
+      {
+        "Type": 3,
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "ReturnPoints": 12,
+    "Type": 0,
+    "ImagePath": "1_12_wwg",
+    "Resources": [
+      {
+        "Type": 0,
+        "Amount": 2
+      },
+      {
+        "Type": 3,
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "ReturnPoints": 13,
+    "Type": 0,
+    "ImagePath": "1_13_bbs",
+    "Resources": [
+      {
+        "Type": 1,
+        "Amount": 2
+      },
+      {
+        "Type": 2,
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "ReturnPoints": 13,
+    "Type": 0,
+    "ImagePath": "1_13_wss",
+    "Resources": [
+      {
+        "Type": 0,
+        "Amount": 1
+      },
+      {
+        "Type": 2,
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "ReturnPoints": 14,
+    "Type": 0,
+    "ImagePath": "1_14_bbg",
+    "Resources": [
+      {
+        "Type": 1,
+        "Amount": 2
+      },
+      {
+        "Type": 3,
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "ReturnPoints": 14,
+    "Type": 0,
+    "ImagePath": "1_14_bss",
+    "Resources": [
+      {
+        "Type": 1,
+        "Amount": 1
+      },
+      {
+        "Type": 2,
+        "Amount": 2
+      }
+    ]
+  },
+  {
+    "ReturnPoints": 16,
+    "Type": 0,
+    "ImagePath": "1_16_ssg",
+    "Resources": [
+      {
+        "Type": 2,
+        "Amount": 2
+      },
+      {
+        "Type": 3,
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "ReturnPoints": 12,
+    "Type": 0,
+    "ImagePath": "12_wbs",
+    "Resources": [
+      {
+        "Type": 0,
+        "Amount": 1
+      },
+      {
+        "Type": 1,
+        "Amount": 1
+      },
+      {
+        "Type": 2,
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "ReturnPoints": 13,
+    "Type": 0,
+    "ImagePath": "13_wbg",
+    "Resources": [
+      {
+        "Type": 0,
+        "Amount": 1
+      },
+      {
+        "Type": 1,
+        "Amount": 1
+      },
+      {
+        "Type": 3,
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "ReturnPoints": 14,
+    "Type": 0,
+    "ImagePath": "14_wsg",
+    "Resources": [
+      {
+        "Type": 0,
+        "Amount": 1
+      },
+      {
+        "Type": 2,
+        "Amount": 1
+      },
+      {
+        "Type": 3,
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "ReturnPoints": 15,
+    "Type": 0,
+    "ImagePath": "15_bsg",
+    "Resources": [
+      {
+        "Type": 1,
+        "Amount": 1
+      },
+      {
+        "Type": 2,
+        "Amount": 1
+      },
+      {
+        "Type": 3,
+        "Amount": 1
+      }
+    ]
+  },
+  {
+    "ReturnPoints": 15,
+    "Type": 0,
+    "ImagePath": "15_bsg",
+    "Resources": [
+      {
+        "Type": 1,
+        "Amount": 1
+      },
+      {
+        "Type": 2,
+        "Amount": 1
+      },
+      {
+        "Type": 3,
+        "Amount": 1
+      }
+    ]
+  },
+  
+  {
+    "Type": 1,
+    "ImagePath": "17_3x",
+    "Min": 1,
+    "Max": 7
+  },
+  {
+    "Type": 1,
+    "ImagePath": "17_3x",
+    "Min": 1,
+    "Max": 7
+  },
+  {
+    "Type": 1,
+    "ImagePath": "17_3x",
+    "Min": 1,
+    "Max": 7
+  }
+]
